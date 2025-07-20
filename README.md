@@ -21,3 +21,12 @@ This repository contains the software that controls my inverted pendulum.
 
 Mind that some of the [dependencies](https://stackoverflow.com/questions/7225900/how-can-i-install-packages-using-pip-according-to-the-requirements-txt-file-from) listed in [requirements.txt](./requirements.txt) are not strictly required.
 
+## Usage
+
+- After finding the [constants](./pid_tuning/Constants.m) of the build, use the [MATLAB Model](./pid_tuning/Transfer_function.slx) to tune the [PID](./PID_Control.py).
+
+- Offset any reading error from the [inertial unit](./Inertial_unit_Calibration.py).
+
+- Connect to the DualShock 4 Controller with bluetooth using [bluetoothctl](https://salamwaddah.com/blog/connecting-ps4-controller-to-raspberry-pi-via-bluetooth) (X activates the PID, O stops the PID, R1 moves forward, L1 moves backward)
+
+- Launch the [Main program](./PID_Control.py) and have fun!
