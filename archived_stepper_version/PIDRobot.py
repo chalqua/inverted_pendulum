@@ -5,7 +5,7 @@ from time import time
 import math
 import numpy as np
 import RPi.GPIO as GPIO
-from AngularVelocityController import *
+from archived_stepper_version.AngularVelocityController import *
 import board
 import busio
 import adafruit_mpu6050
