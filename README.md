@@ -10,7 +10,7 @@ In my setup, I connected both drivers to the exact same GPIO ports.
 
 ## 3D printing
 
-3D STL files are available on [onshape](https://cad.onshape.com/documents/99b23c697db4fbadab78f74f/w/2d03e69731836f0563bc861c/e/9221b6085e1bd466c06a7c75?renderMode=0&uiState=66b0f7d4b046fb7c21175e74).
+3D STL files are available on [onshape]([https://cad.onshape.com/documents/99b23c697db4fbadab78f74f/w/2d03e69731836f0563bc861c/e/9221b6085e1bd466c06a7c75?renderMode=0&uiState=66b0f7d4b046fb7c21175e74](https://cad.onshape.com/documents/99b23c697db4fbadab78f74f/w/2d03e69731836f0563bc861c/e/28dfe77486ea93adba587849?renderMode=0&uiState=687cd84c7bea8912093d7078)).
 
 ## Kit list
 
